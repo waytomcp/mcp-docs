@@ -86,13 +86,6 @@
             ]
           },
           {
-            "tab": "关于我",
-            "icon": "mail",
-            "pages": [
-              "ext/me"
-            ]
-          },
-          {
             "tab": "扩展",
             "icon": "book-open",
             "pages": [
